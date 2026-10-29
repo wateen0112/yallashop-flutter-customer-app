@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42320449318",
+    "project_id": "my-next13-test-b9bc0",
+    "storage_bucket": "my-next13-test-b9bc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42320449318:android:3c04aa06d9bb93d4ccfbe7",
+        "android_client_info": {
+          "package_name": "com.yallaCode.superMommy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5jIccrDtI_9SQnDOy-3RtdBGeub7WsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
